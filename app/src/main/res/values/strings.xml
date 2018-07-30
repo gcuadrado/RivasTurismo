@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiAplicacion</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_trincheras_a3">trincherasA3</string>
+</resources>
